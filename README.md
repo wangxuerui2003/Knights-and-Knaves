@@ -8,18 +8,18 @@ Each character is either a knight or a knave. A knight will always tell the trut
 
 ## Puzzles
 
-#### Puzzle 0: contains a single character, A.
+**Puzzle 0: contains a single character, A.**
 * A says “I am both a knight and a knave.”
 
-#### Puzzle 1 has two characters: A and B.
+**Puzzle 1 has two characters: A and B.**
 * A says “We are both knaves.”
 * B says nothing.
 
-#### Puzzle 2 has two characters: A and B.
+**Puzzle 2 has two characters: A and B.**
 * A says “We are the same kind.”
 * B says “We are of different kinds.”
 
-#### Puzzle 3 has three characters: A, B, and C.
+**Puzzle 3 has three characters: A, B, and C.**
 * A says either “I am a knight.” or “I am a knave.”, but you don’t know which.
 * B says “A said ‘I am a knave.’”
 * B then says “C is a knave.”
@@ -28,18 +28,18 @@ Each character is either a knight or a knave. A knight will always tell the trut
 
 ## Answers
 
-#### Puzzle 0:
+**Puzzle 0:**
 * A is knave
 
-#### Puzzle 1:
-* A is knave
-* B is knight
-
-#### Puzzle 2:
+**Puzzle 1:**
 * A is knave
 * B is knight
 
-#### Puzzle 3:
+**Puzzle 2:**
+* A is knave
+* B is knight
+
+**Puzzle 3:**
 * A is knight
 * B is knave
 * C is knight
